@@ -54,13 +54,15 @@ significantly but may result in a significant lose of points in case of
 a poor performance.
 
 In general the expected performance of player A is depicted with the
-following equation: \[E(A) = \frac{1}{1+10^{(\frac{R_A - R_B}{400})}}\]
-where \(R_A\) is the rating of player A, and \(E(A) + E(B) = 1\).
+following equation: 
+$$\[E(A) = \frac{1}{1+10^{(\frac{R_A - R_B}{400})}}\]$$
+where $\(R_A\)$ is the rating of player A, and $\(E(A) + E(B) = 1\)$.
 
 And the change in ranking is generally depicted with the following
-equation: \[R^1_{A} = R^0_{A} + K(S_A - E_A)\] Where K is a constant
-(set to 32 in the world of chess), \(S_A\) is the actual performance of
-player A and \(E_A\) is the expected performance as calculated above,
+equation: 
+$$\[R^1_{A} = R^0_{A} + K(S_A - E_A)\]$$ 
+Where K is a constant (set to 32 in the world of chess), $\(S_A\)$ is the actual performance of
+player A and $\(E_A\)$ is the expected performance as calculated above,
 and is influenced by the difference in ELO rating between the two sides.
 
 The system was originally invented by Arpad Elo for the world of chess
