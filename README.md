@@ -1,4 +1,4 @@
-# Workflows_Group_306
+# Predicting NFL Winners using ELO ratings
 - authors: Frank Lu, Simardeep Kaur, Tani Barasch
 
 ## About
