@@ -16,7 +16,7 @@ Using this data we train two machine learning classification algorithems: logist
 The data for this project will be the same data fivethirtyeigh uses to generate their own predictions which can be found in [this](https://github.com/fivethirtyeight/data/tree/master/nfl-elo) github repo.
 
 ## Report
-The final report markdown can be found [here](https://github.com/UBC-MDS/Workflows_Group_306/blob/master/doc/Elo_prediction_report.md)
+The final report markdown can be found [here](https://github.com/TBarasch/NFL_ELO_predictions/blob/master/doc/Elo_prediction_report.md)
 
 ## Usage
 To run this analysis, clone this github repo, install the dependencies as listed below and run the following code in the command line/terminal from the root directory of this project:
